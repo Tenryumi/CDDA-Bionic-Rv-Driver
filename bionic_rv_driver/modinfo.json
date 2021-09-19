@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "bionic_rv_driver",
+    "name": "Bionic RV driver",
+    "authors": [ "RYUMI" ],
+    "description": "Adds a new bionic-focused starting profession.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
